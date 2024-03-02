@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nisanth-project/static/css/main.cc789405.css",
+    "main.js": "/Nisanth-project/static/js/main.e53bd061.js",
+    "static/js/453.a6a97343.chunk.js": "/Nisanth-project/static/js/453.a6a97343.chunk.js",
+    "index.html": "/Nisanth-project/index.html",
+    "main.cc789405.css.map": "/Nisanth-project/static/css/main.cc789405.css.map",
+    "main.e53bd061.js.map": "/Nisanth-project/static/js/main.e53bd061.js.map",
+    "453.a6a97343.chunk.js.map": "/Nisanth-project/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc789405.css",
+    "static/js/main.e53bd061.js"
+  ]
+}
